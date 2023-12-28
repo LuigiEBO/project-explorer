@@ -1,8 +1,19 @@
 h1 {
   font-family: 'Inter', sans-serif;
-
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+}
+h1 span {
+  font-weight: bold;
 }
 body {
   font-family: 'Opes Sans', sans-serif;
 
+}
+span, a {
+  color: orange;
+}
+p {
+  color: #7D7987;
 }
